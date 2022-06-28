@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pixmap/background.png</file>
+        <file>Pixmap/fixed.png</file>
+        <file>Pixmap/move.png</file>
+    </qresource>
+</RCC>
